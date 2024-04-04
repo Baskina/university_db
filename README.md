@@ -57,5 +57,3 @@ Upon executing the application, you will receive responses in the console corres
 12. **Grades of Students in Specific Group for Specific Subject on Last Class**: Retrieves the grades of students in a specific group for a specific subject on the last class.
 
 ---
-
-Feel free to let me know if you need any further assistance or if there are any additional changes you'd like!
